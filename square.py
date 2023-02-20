@@ -3,6 +3,11 @@ b=2
 c=a**b
 # print(f"square of {a} and {b} is {c}")
 
+#code for addition
+c=a+b
+print(c)
+# print(f"square of {a} and {b} is {c}")
+
 #code for substraction
 c=a-b
 print(c)
