@@ -1,4 +1,3 @@
-#code for madan
 a=10
 b=2
 c=a**b
@@ -15,4 +14,10 @@ print(c)
 
 #code for multiplicatoin
 c=a*b
+print(c)
+
+
+
+#code for division
+c=a/b
 print(c)
